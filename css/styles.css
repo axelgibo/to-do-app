@@ -1,0 +1,12 @@
+.delete-button {  /* Use the class selector */
+    color: red;
+    font-weight: bold;
+    margin-left: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.delete-button:hover {
+    color: darkred;
+}

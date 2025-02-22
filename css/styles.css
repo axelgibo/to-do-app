@@ -10,3 +10,7 @@
 .delete-button:hover {
     color: darkred;
 }
+
+.strike {
+    text-decoration: line-through;
+}
